@@ -1,5 +1,13 @@
 Version Changes
 ===============
+0.1.8
+-----
+* Move back to GETs
+
+0.1.7
+-----
+* Ruby 1.9.3 fixes
+
 0.1.6
 -----
 * Added a way to return spelling correction per word
@@ -12,5 +20,5 @@ Version Changes
 0.1.0
 -----
 * Added local params to facets and filters (allows fq={!tag=dt})
-	* Added support for facet field/query labels
-	* Added support for tagging and excluding filters for facets
+  * Added support for facet field/query labels
+  * Added support for tagging and excluding filters for facets
